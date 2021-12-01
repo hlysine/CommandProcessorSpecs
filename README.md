@@ -1,7 +1,7 @@
 # Command Processor
 
 This is a programming exercise that simulates real-world programming experiences, where future feature requirements are unknown
-and thus writing future-proof code is essential. This exercise starts off with very basic requirements and progressively add
+and thus writing future-proof code is essential. This exercise starts off with very basic requirements and progressively adds
 new features in newer versions.
 
 ## Rules
